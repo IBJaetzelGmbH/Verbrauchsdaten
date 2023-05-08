@@ -1,0 +1,12 @@
+{
+    "id": "{9F88A820-6CF4-B436-D495-0BE5D8D68CAC}",
+    "name": "Verbrauchsdaten",
+    "type": 3,
+    "vendor": "IB Jaetzel",
+    "aliases": [],
+    "parentRequirements": [],
+    "childRequirements": [],
+    "implemented": [],
+    "prefix": "VD",
+    "url": ""
+}

@@ -1,0 +1,17 @@
+{
+    "translations": {
+        "de": {
+            "Active": "Aktiv",
+            "Logged Variable": "Geloggte Variable",
+            "Today": "Heute",
+            "Yesterday": "Gestern",
+            "Current Week": "Aktuelle Woche",
+            "Last Week": "Letzte Woche",
+            "Current Month": "Aktueller Monat",
+            "Last Month": "Letzter Monat",
+            "Current Year": "Aktuelles Jahr",
+            "Last Year": "Letztes Jahr",
+            "Update Interval": "Aktualisierungsintervall"
+        }
+    }
+}
