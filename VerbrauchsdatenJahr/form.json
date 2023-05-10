@@ -1,0 +1,37 @@
+{
+    "elements": [
+        {
+            "type": "CheckBox",
+            "name": "Active",
+            "caption": "Active"
+        },
+        {
+            "type": "SelectVariable",
+            "name": "VariableID",
+            "caption": "Logged Variable",
+            "validVariableTypes": [
+                1,
+                2
+            ],
+            "requiredLogging": 4
+        },
+        {
+            "type": "NumberSpinner",
+            "name": "Year",
+            "caption": "Year"
+        },
+        {
+            "type": "NumberSpinner",
+            "name": "UpdateInterval",
+            "caption": "Update Interval"
+        }
+    ],
+    "actions": [],
+    "status": [
+        {
+            "code": 201,
+            "icon": "error",
+            "caption": "Error! Variable missing!"
+        }
+    ]
+}

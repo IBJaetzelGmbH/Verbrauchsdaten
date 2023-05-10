@@ -1,0 +1,12 @@
+{
+    "id": "{6C2712D7-6B29-4046-B349-7E8CA497679D}",
+    "name": "VerbrauchsdatenJahr",
+    "type": 3,
+    "vendor": "IB Jaetzel",
+    "aliases": ["Verbrauchsdaten Jahr"],
+    "parentRequirements": [],
+    "childRequirements": [],
+    "implemented": [],
+    "prefix": "VD",
+    "url": ""
+}
