@@ -28,7 +28,7 @@ Das Modul zeigt die Verbrauchsdaten für ein eingestelltes Jahr an.
 
 ### 4. Einrichten der Instanzen in IP-Symcon
 
- Unter 'Instanz hinzufügen' kann das 'Verbrauchsdaten'-Modul mithilfe des Schnellfilters gefunden werden.  
+ Unter 'Instanz hinzufügen' kann das 'VerbrauchsdatenJahr'-Modul mithilfe des Schnellfilters gefunden werden.  
 	- Weitere Informationen zum Hinzufügen von Instanzen in der [Dokumentation der Instanzen](https://www.symcon.de/service/dokumentation/konzepte/instanzen/#Instanz_hinzufügen)
 
 __Konfigurationsseite__:
@@ -48,18 +48,18 @@ Die Statusvariablen/Kategorien werden automatisch angelegt. Das Löschen einzeln
 
 Name   | Typ     | Beschreibung
 ------ | ------- | ------------
-Januar | Float |Verbrauchsdaten für Heute
-Februar | Float |Verbrauchsdaten für Gestern
-März | Float | Verbrauchsdaten für die aktuelle Woche
-April Woche | Float | Verbrauchsdaten für die letzte Woche
-Mai | Float | Verbrauchsdaten für den aktuellen Monat
-Juni | Float | Verbrauchsdaten für den letzten Monat
-Juli | Float | Verbrauchsdaten für das aktuelle Jahr
-August | Float | Verbrauchsdaten für das letzte Jahr
-September | Float | Intervall in Sekunden, wie oft die Werte aktualisiert werden sollen
-Oktober | Float |
-November | Float |
-Dezember | Float |
+Januar | Float |Verbrauchsdaten für Januar
+Februar | Float |Verbrauchsdaten für Februar
+März | Float | Verbrauchsdaten für März
+April | Float | Verbrauchsdaten für April
+Mai | Float | Verbrauchsdaten für Mai
+Juni | Float | Verbrauchsdaten für Juni
+Juli | Float | Verbrauchsdaten für Juli
+August | Float | Verbrauchsdaten für August
+September | Float | Verbrauchsdaten für September
+Oktober | Float | Verbrauchsdaten f+r Oktober
+November | Float | Verbrauchsdaten für November
+Dezember | Float | Verbrauchsdaten für Dezember
 
 ### 6. WebFront
 
